@@ -326,6 +326,7 @@ a {
   line-height: 1.5;
   font-size: 2.1em;
 }
+
 .project-title4 {
   color: black;
   position: relative;
@@ -490,7 +491,6 @@ footer {
     font-size: 2.5em;
   }
 
-
   .project_item3 {
     height: 40em;
   }
@@ -526,7 +526,6 @@ footer {
     line-height: 1.5;
     font-size: 2.1em;
   }
-
 
   footer h3 {
     font-size: 2em;
@@ -636,6 +635,7 @@ footer {
     line-height: 1.5;
     font-size: 2.6em;
   }
+
   .project-title4 {
     font-size: 3em;
   }
@@ -706,11 +706,13 @@ footer {
     top: 12em;
     left: 50%;
   }
+
   .project_link {
     height: 65px;
     width: 50%;
     font-size: 1.5em;
   }
+
   .projects__container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -726,7 +728,8 @@ footer {
     margin-left: auto;
     margin-right: auto;
   }
-  #title1{
+
+  #title1 {
     font-size: 1.5em;
   }
 
@@ -741,7 +744,8 @@ footer {
   .project_link {
     grid-row: 3 / 3;
   }
-  #title2{
+
+  #title2 {
     font-size: 1.5em;
   }
 
@@ -775,21 +779,24 @@ footer {
     margin-left: auto;
     margin-right: auto;
   }
-  #title3{
+
+  #title3 {
     font-size: 1.5em;
   }
+
   .project-title3 {
     grid-column: 3 / 3;
     grid-row: 2 / 2;
     font-size: 1.6em;
     display: inline-block;
     text-align: center;
-    }
+  }
 
   .project_link3 {
     grid-column: 3 / 3;
     grid-row: 3 / 3;
   }
+
   .project_item4 {
     grid-column: 1 / 1;
     grid-row: 4 / 4;
@@ -798,7 +805,8 @@ footer {
     margin-left: auto;
     margin-right: auto;
   }
-  #title4{
+
+  #title4 {
     font-size: 1.5em;
   }
 
@@ -814,18 +822,17 @@ footer {
     grid-column: 1 / 1;
     grid-row: 6 / 6;
   }
-  .project_linkgrid2{
+
+  .project_linkgrid2 {
     grid-row: 6 / 6;
     grid-column: 1 / 1;
   }
-
 }
 
 @media only screen and (min-width: 1920px) {
   .projects__container {
     grid-column-gap: 65px;
   }
-
 
   header {
     width: 100%;
@@ -860,15 +867,19 @@ footer {
     height: 25em;
     width: 25em;
   }
-    #title1{
-      font-size: 1.4em;
-    }
+
+  #title1 {
+    font-size: 1.4em;
+  }
+
   .project-title {
     font-size: 1.6em;
   }
-  #title2{
+
+  #title2 {
     font-size: 1.4em;
   }
+
   .project-title2 {
     font-size: 1.6em;
   }
@@ -876,27 +887,32 @@ footer {
   .project_item2 {
     height: 25em;
     width: 25em;
-    }
+  }
 
   .project_link2 {}
 
   .project_item3 {
     height: 25em;
     width: 25em;
-    }
-  #title3{
+  }
+
+  #title3 {
     font-size: 1.4em;
   }
+
   .project-title3 {
     font-size: 1.6em;
   }
+
   .project_item4 {
     height: 25em;
     width: 25em;
   }
-    #title4{
-      font-size: 1.4em;
-    }
+
+  #title4 {
+    font-size: 1.4em;
+  }
+
   .project-title4 {
     font-size: 1.6em;
   }
