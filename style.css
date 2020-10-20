@@ -874,6 +874,8 @@ footer {
 
   .project-title {
     font-size: 1.6em;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   #title2 {
@@ -882,14 +884,14 @@ footer {
 
   .project-title2 {
     font-size: 1.6em;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   .project_item2 {
     height: 25em;
     width: 25em;
   }
-
-  .project_link2 {}
 
   .project_item3 {
     height: 25em;
@@ -902,6 +904,8 @@ footer {
 
   .project-title3 {
     font-size: 1.6em;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   .project_item4 {
@@ -915,4 +919,173 @@ footer {
 
   .project-title4 {
     font-size: 1.6em;
+    margin-left: 2em;
+    margin-right: 2em;
   }
+}
+
+@media only screen and (min-width: 2560px) {
+  .project_item {
+    height: 30em;
+    width: 30em;
+  }
+
+  .project_link {
+    height: 65px;
+    width: 40%;
+    font-size: 1.8em;
+  }
+
+  #title1 {
+    font-size: 1.8em;
+  }
+
+  .project-title {
+    font-size: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+
+  #title2 {
+    font-size: 1.8em;
+  }
+
+  .project-title2 {
+    font-size: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  .project_item2 {
+    height: 30em;
+    width: 30em;
+  }
+
+  .project_item3 {
+    height: 30em;
+    width: 30em;
+  }
+
+  #title3 {
+    font-size: 1.8em;
+  }
+
+  .project-title3 {
+    font-size: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+
+  .project_item4 {
+    height: 30em;
+    width: 30em;
+  }
+
+  #title4 {
+    font-size: 1.8em;
+  }
+
+  .project-title4 {
+    font-size: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+}
+
+@media only screen and (min-width: 3840px) {
+  header .brand {
+    font-size: 2.7em;
+  }
+
+  nav ul li {
+    font-size: 2.7em;
+  }
+
+  .name {
+    font-size: 6em;
+  }
+
+  .job {
+    font-size: 4em;
+  }
+
+  .location {
+    font-size: 4em;
+  }
+
+  .arrow {
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 32px solid #036bfc;
+  }
+
+  .project_item {
+    height: 35em;
+    width: 35em;
+  }
+
+  .project_link {
+    height: 85px;
+    width: 50%;
+    font-size: 2.2em;
+  }
+
+  #title1 {
+    font-size: 2.1em;
+  }
+
+  .project-title {
+    font-size: 2.8em;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+
+  #title2 {
+    font-size: 2.1em;
+  }
+
+  .project-title2 {
+    font-size: 2.8em;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  .project_item2 {
+    height: 35em;
+    width: 35em;
+  }
+
+  .project_item3 {
+    height: 35em;
+    width: 35em;
+  }
+
+  #title3 {
+    font-size: 2.1em;
+  }
+
+  .project-title3 {
+    font-size: 2.8em;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+
+  .project_item4 {
+    height: 35em;
+    width: 35em;
+  }
+
+  #title4 {
+    font-size: 2.1em;
+  }
+
+  .project-title4 {
+    font-size: 2.8em;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+
+  .contact {
+    font-size: 2em;
+  }
+}
